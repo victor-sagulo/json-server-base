@@ -6,6 +6,33 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "vlcampos921@gmail.com",
+      "password": "$2a$10$QP/Rxy.MU5bPMJTdVNDaSuqRsjlJbXIs4ZuuylP3KxoKgv/JXIevC",
+      "name": "Victor Luiz",
+      "age": 26,
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "userId": 2,
+      "name": "Zulu",
+      "animalType": "Cachorro",
+      "cor": "preto",
+      "raça": "labrador",
+      "idade": 7,
+      "id": 1
+    }
+  ],
+  "schedule": [
+    {
+      "userId": 2,
+      "animalName": "Zulu",
+      "treatmentType": "Bath, HairCut",
+      "scheduleDate": "thuesday at 9am",
+      "id": 1
     }
   ]
 }
